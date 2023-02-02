@@ -20,6 +20,8 @@ Enthusiastic individual with a strong understanding of front-end development and
 [![CSS](https://img.shields.io/badge/CSS-ff0099?style=for-the-badge&logo=CSS&logoColor=white)](/null)
 [![Tailwind](https://img.shields.io/badge/Tailwind-00ccff?style=for-the-badge&logo=Tailwind&logoColor=white)](/null)
 [![styled](https://img.shields.io/badge/styled-e600ff?style=for-the-badge&logo=styled-components&logoColor=white)](/null)
+[![formik](https://img.shields.io/badge/formik-aa00ff?style=for-the-badge&logo=formik&logoColor=white)](/null)
+[![yup](https://img.shields.io/badge/yup-aa00ff?style=for-the-badge&logo=yup&logoColor=white)](/null)
 [![Material UI](https://img.shields.io/badge/MaterialUi-0A66C2?style=for-the-badge&logo=MaterialUi&logoColor=white)](/null)
 [![STRAPI](https://img.shields.io/badge/strapi-aa00ff?style=for-the-badge&logo=strapi&logoColor=white)](/null)
 [![STRIPE](https://img.shields.io/badge/stripe-000000?style=for-the-badge&logo=stripe&logoColor=white)](/null)
