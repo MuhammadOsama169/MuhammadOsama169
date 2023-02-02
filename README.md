@@ -14,6 +14,7 @@ Enthusiastic individual with a strong understanding of front-end development and
 ## 🛠 Skills
 
 [![React](https://img.shields.io/badge/react-0A66C2?style=for-the-badge&logo=react&logoColor=blue)](/null)
+[![Redux](https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=white)](/null)
 [![Javascript](https://img.shields.io/badge/Javascript-ffd000?style=for-the-badge&logo=Javascript&logoColor=white)](/null)
 [![HTML](https://img.shields.io/badge/HTML-ffae00?style=for-the-badge&logo=HTML&logoColor=white)](/null)
 [![CSS](https://img.shields.io/badge/CSS-ff0099?style=for-the-badge&logo=CSS&logoColor=white)](/null)
