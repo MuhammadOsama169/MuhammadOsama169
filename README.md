@@ -5,7 +5,7 @@
 Enthusiastic individual with a strong understanding of front-end development and design. Seeking an entry-level Front-End Developer role to apply my skills and gain experience in a professional setting. Strong problem-solving skills and a passion for creating user-friendly websites.
 
 ## 📫 How to reach me
-
+[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/m.osama2)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-muhammadosama.netlify.app//)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-osama-688123162/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silverous_spy/)
