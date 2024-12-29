@@ -2,7 +2,11 @@
 ![Frame 245 (1)](https://user-images.githubusercontent.com/71230686/214513305-38b5d8cf-4f1b-41c1-a45d-dad423cf208c.png)
 
 ## 🌠 About Me
-Enthusiastic individual with a strong understanding of front-end development and design. Seeking an entry-level Front-End Developer role to apply my skills and gain experience in a professional setting. Strong problem-solving skills and a passion for creating user-friendly websites.
+With expertise in React, Next.js, Redux Toolkit, and Tailwind CSS. Recently, I led a team of three developers at Sustainable Star LLC, delivering innovative solutions for microservices and data visualization. I am Passionate about creating impactful digital experiences
+
+For the past 1 year my work is done in GitLab so my contributions on GitLab has been empty. Please click on my GitLab profile below to view my activity :)
+
+Let’s build something great together!
 
 ## 📫 How to reach me
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/m.osama2)
