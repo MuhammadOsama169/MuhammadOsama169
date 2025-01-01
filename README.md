@@ -3,10 +3,16 @@
 
 ## 🌠 About Me
 With expertise in React, Next.js, Redux Toolkit, and Tailwind CSS. Recently, I led a team of three developers at Sustainable Star LLC, delivering innovative solutions for microservices and data visualization. I am Passionate about creating impactful digital experiences
-
-For the past 1 year my work is done in GitLab so my contributions on GitLab has been empty. Please click on my GitLab profile below to view my activity :)
-
 Let’s build something great together!
+
+For the past 1 year my work is done in GitLab so my contributions on GitLab has been empty. Please click on my GitLab profile for more info.
+
+
+![Screenshot 2024-12-14 122116](https://github.com/user-attachments/assets/8445c765-c52b-404e-b68e-5c1e17546d97)
+
+[![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/m.osama2)
+
+
 
 ## 📫 How to reach me
 [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/m.osama2)
