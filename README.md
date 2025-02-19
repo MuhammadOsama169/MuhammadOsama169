@@ -24,6 +24,7 @@ For the past 1 year my work is done in GitLab so my contributions on GitLab has 
 ## 🛠 Skills
 
 [![React](https://img.shields.io/badge/react-0A66C2?style=for-the-badge&logo=react&logoColor=blue)](/null)
+[![Nuxt](https://img.shields.io/badge/Nuxt-%2300DC82?style=for-the-badge&logo=nuxt&logoColor=white)](https://nuxt.com/)
 [![Redux](https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=white)](/null)
 [![Javascript](https://img.shields.io/badge/Javascript-ffd000?style=for-the-badge&logo=Javascript&logoColor=white)](/null)
 [![HTML](https://img.shields.io/badge/HTML-ffae00?style=for-the-badge&logo=HTML&logoColor=white)](/null)
