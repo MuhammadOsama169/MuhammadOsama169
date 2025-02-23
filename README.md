@@ -1,6 +1,4 @@
 
-![Frame 245 (1)](https://user-images.githubusercontent.com/71230686/214513305-38b5d8cf-4f1b-41c1-a45d-dad423cf208c.png)
-
 ## 🌠 About Me
 With expertise in React, Next.js, Redux Toolkit, and Tailwind CSS. Recently, I led a team of three developers at Sustainable Star LLC, delivering innovative solutions for microservices and data visualization. I am Passionate about creating impactful digital experiences
 Let’s build something great together!
