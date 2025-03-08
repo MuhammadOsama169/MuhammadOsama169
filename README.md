@@ -23,15 +23,11 @@ For the past 1 year my work is done in GitLab so my contributions on GitLab has 
 
 [![React](https://img.shields.io/badge/react-0A66C2?style=for-the-badge&logo=react&logoColor=blue)](/null)
 [![Nuxt](https://img.shields.io/badge/Nuxt-%2300DC82?style=for-the-badge&logo=nuxt&logoColor=white)](https://nuxt.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Redux](https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=white)](/null)
-[![Javascript](https://img.shields.io/badge/Javascript-ffd000?style=for-the-badge&logo=Javascript&logoColor=white)](/null)
-[![HTML](https://img.shields.io/badge/HTML-ffae00?style=for-the-badge&logo=HTML&logoColor=white)](/null)
-[![CSS](https://img.shields.io/badge/CSS-ff0099?style=for-the-badge&logo=CSS&logoColor=white)](/null)
+[![Pinia](https://img.shields.io/badge/Pinia-%23008EFF?style=for-the-badge&logo=pinia&logoColor=white)](https://pinia.vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-00ccff?style=for-the-badge&logo=Tailwind&logoColor=white)](/null)
-[![styled](https://img.shields.io/badge/styled-e600ff?style=for-the-badge&logo=styled-components&logoColor=white)](/null)
-[![formik](https://img.shields.io/badge/formik-aa00ff?style=for-the-badge&logo=formik&logoColor=white)](/null)
-[![yup](https://img.shields.io/badge/yup-aa00ff?style=for-the-badge&logo=yup&logoColor=white)](/null)
 [![Material UI](https://img.shields.io/badge/MaterialUi-0A66C2?style=for-the-badge&logo=MaterialUi&logoColor=white)](/null)
-[![STRAPI](https://img.shields.io/badge/strapi-aa00ff?style=for-the-badge&logo=strapi&logoColor=white)](/null)
 [![STRIPE](https://img.shields.io/badge/stripe-000000?style=for-the-badge&logo=stripe&logoColor=white)](/null)
 
